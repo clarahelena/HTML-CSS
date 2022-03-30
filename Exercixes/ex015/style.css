@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: coral;
+}
+p{
+    font-style: inherit;
+    color: crimson;
+}
+h1{
+    color: aquamarine;
+    background-color: black;
+}
